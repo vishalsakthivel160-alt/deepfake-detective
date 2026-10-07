@@ -1,0 +1,6 @@
+{
+  "name": "Deepfake Detective",
+  "description": "AI-powered deepfake and synthetic media forensic detection platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
